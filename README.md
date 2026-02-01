@@ -1,6 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/hero.gif" width="100%" alt="hero" />
-</p>
+</p> -->
+![](./assets/hero.gif)
+
 
 
 <h1 align="center">Hi 👋, I'm Suryank Malik</h1>
