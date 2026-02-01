@@ -1,4 +1,7 @@
-<img src="assets/hero.gif" width="100%" /> ![My Animation](assets/hero.gif)
+<p align="center">
+  <img src="./assets/hero.gif" width="100%" alt="hero" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Suryank Malik</h1>
 <h3 align="center">Building scalable AI-powered products with MERN, AI, and Intelligent Automation.</h3>
