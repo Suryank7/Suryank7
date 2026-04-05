@@ -46,3 +46,17 @@
 - 📫 How to reach me **asksuryank@gmail.com**
 
 - ⚡ Fun fact **I can turn ideas into prototypes faster than my WiFi disconnects**
+
+<h3 align="left">Featured Projects</h3>
+
+• [swart](https://itzfizz-task-swart.vercel.app/)  
+• [mint-lp](https://mint-lp.vercel.app/)  
+• [code2career](https://code2career.vercel.app/)  
+• [nexus-chat](https://nexus-chat-flax.vercel.app/)  
+• [event-os](https://event-os-elite-hack.vercel.app/)  
+• [snippet-vault](https://snippet-vault-nine.vercel.app/)  
+• [myraid-task-manager](https://myraid-task-manager-task.vercel.app/)  
+• [projex-tracker](https://projex-tracker.vercel.app/)  
+• [impactloop](https://impactloop-digital-heroes.vercel.app/)  
+
+  
