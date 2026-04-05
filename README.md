@@ -21,12 +21,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/suryank7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suryank7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryank7&show_icons=true&locale=en&layout=compact" alt="suryank7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryank7&show_icons=true&locale=en" alt="suryank7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryank7&" alt="suryank7" /></p>
-
 - 🔭 I’m currently working on [Ecopack AI](https://github.com/yashmali97/Ecopack-AI)
 
 - 🌱 I’m currently learning **Advanced React, Automation, ExpressJs, Agentic AI, RAG Optimization, LLMs,**
