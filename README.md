@@ -31,7 +31,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Ecopack AI](https://github.com/Suryank7/ecopack)
+- 🔭 I’m currently working on [code2career](https://github.com/Suryank7/code2career)
 
 - 🌱 I’m currently learning **Advanced React, Automation, ExpressJs, Agentic AI, RAG Optimization, LLMs,**
 
