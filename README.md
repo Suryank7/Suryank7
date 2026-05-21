@@ -61,20 +61,6 @@
   </tr>
 </table>
 
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Suryank7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryank7&layout=compact&theme=algolia" width="36%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryank7&theme=radical" width="60%" />
-
-</div>
-
----
-
 <h3 align="center">Featured Projects</h3>
 
 <div align="center">
