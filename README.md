@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋 I'm Suryank Malik</h1> <h3 align="center">Full-Stack AI Engineer • Building scalable AI-native products from idea to deployment.</h3> 
-<p align="center"> <img src="./assets/hero.gif" width="100%" alt="hero"/> </p> 
 <br>
-**Building AI-powered products that solve real-world problems.**  
-From AI agents and machine learning to scalable full-stack applications.
+Building AI-powered products for real-world impact.
+From AI agents to scalable full-stack applications.
 
 - Built **AI & Full-Stack applications**
 - Participated in **50+ hackathons**, open-source initiatives, and innovation challenges
