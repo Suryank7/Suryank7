@@ -2,12 +2,6 @@
 <p align="center"> <img src="./assets/hero.gif" width="100%" alt="hero"/> </p> 
 
 <p align="center">
-  <a href="https://suryankdom.netlify.app">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/suryank7">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:asksuryank@gmail.com">Email</a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=suryank7&style=flat-square&color=blueviolet"/>
 </p>
 
